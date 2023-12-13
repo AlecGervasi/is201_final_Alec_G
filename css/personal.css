@@ -1,0 +1,76 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(https://wallpapercave.com/wp/wp11689838.jpg);
+    color: white;
+}
+a{
+    color: rgb(167, 229, 229);
+}
+a:visited{
+    color: rgb(255, 179, 0);
+}
+.anchor{
+    text-align: center;
+    font-size: x-large;
+    background-color: black;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+}
+h2{
+    text-align: center;
+    font-size: small;
+    
+}
+h3{
+    text-align: center;
+}
+.facts{
+    font-family: Aharoni, 'Verdana Pro Black', sthupo, Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: bold 
+}
+.love{
+    font-stretch: ;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif
+}
+.navigation{
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+.container img {
+    margin-right: 40px;
+}
+/* .container2{
+    display: flex;
+    align-items: center;
+}
+.container2 img {
+    margin-right: 40px;
+} */
+.video{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+img{
+    border: solid black 4px;
+    display: block;
+    width: 37%;
+    margin: auto;
+}
+.tableau{
+    border: black, 5px;
+}
+.excitement{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Bookman Old Style', Perpetua, Sagona, Arial, Helvetica, sans-serif;
+}
